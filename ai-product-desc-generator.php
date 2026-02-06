@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: AI Product Description Generator
- * Plugin URI: https://aipdg.dev
+ * Plugin URI: https://github.com/bangbangce/ai-product-desc-generator
  * Description: AI-powered product description generator for WooCommerce. Generate SEO-friendly, engaging product descriptions with one click using OpenAI, DeepSeek, or other AI services.
  * Version: 1.0.0
  * Requires at least: 5.8
@@ -9,7 +9,6 @@
  * WC requires at least: 5.0
  * WC tested up to: 8.5
  * Author: shitou
- * Author URI: https://aipdg.dev
  * License: GPLv2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: ai-product-desc-generator
