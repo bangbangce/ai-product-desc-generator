@@ -1,0 +1,320 @@
+/**
+ * AI Product Description Generator - Admin Styles
+ */
+
+/* Settings Page */
+.aipdg-settings-wrap {
+    max-width: 800px;
+}
+
+.aipdg-settings-wrap h1 {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.aipdg-pro-badge {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: #fff;
+    padding: 3px 10px;
+    border-radius: 3px;
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.aipdg-pro-tag {
+    background: #f0f0f1;
+    color: #50575e;
+    padding: 2px 8px;
+    border-radius: 3px;
+    font-size: 11px;
+    margin-left: 8px;
+}
+
+/* Usage Notice */
+.aipdg-usage-notice {
+    background: #fff;
+    border: 1px solid #c3c4c7;
+    border-left: 4px solid #0073aa;
+    padding: 12px 15px;
+    margin: 15px 0;
+    border-radius: 0 4px 4px 0;
+}
+
+.aipdg-usage-bar {
+    background: #e0e0e0;
+    height: 8px;
+    border-radius: 4px;
+    overflow: hidden;
+    margin-top: 8px;
+}
+
+.aipdg-usage-fill {
+    background: linear-gradient(90deg, #0073aa, #00a0d2);
+    height: 100%;
+    border-radius: 4px;
+    transition: width 0.3s ease;
+}
+
+/* Meta Box Styles */
+.aipdg-metabox {
+    padding: 5px 0;
+}
+
+.aipdg-metabox .aipdg-field {
+    margin-bottom: 12px;
+}
+
+.aipdg-metabox label {
+    display: block;
+    font-weight: 600;
+    margin-bottom: 5px;
+    font-size: 12px;
+}
+
+.aipdg-metabox .aipdg-hint {
+    color: #666;
+    font-size: 11px;
+    margin-top: 4px;
+    display: block;
+}
+
+.aipdg-metabox .aipdg-options {
+    margin: 12px 0;
+}
+
+.aipdg-metabox .aipdg-checkbox {
+    display: block;
+    margin-bottom: 6px;
+    font-weight: normal;
+}
+
+.aipdg-metabox .aipdg-checkbox input {
+    margin-right: 6px;
+}
+
+.aipdg-usage-info {
+    background: #f6f7f7;
+    padding: 6px 10px;
+    border-radius: 3px;
+    margin-bottom: 12px;
+}
+
+.aipdg-usage-info small {
+    color: #666;
+}
+
+/* Generate Button */
+.aipdg-generate-btn {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    padding: 8px 12px !important;
+    height: auto !important;
+}
+
+.aipdg-generate-btn .dashicons {
+    font-size: 16px;
+    width: 16px;
+    height: 16px;
+}
+
+.aipdg-generate-btn:disabled {
+    opacity: 0.7;
+    cursor: not-allowed;
+}
+
+/* Status */
+.aipdg-status {
+    margin-top: 12px;
+    padding: 10px;
+    border-radius: 4px;
+    font-size: 13px;
+}
+
+.aipdg-status.success {
+    background: #d4edda;
+    border: 1px solid #c3e6cb;
+    color: #155724;
+}
+
+.aipdg-status.error {
+    background: #f8d7da;
+    border: 1px solid #f5c6cb;
+    color: #721c24;
+}
+
+.aipdg-status.loading {
+    background: #fff3cd;
+    border: 1px solid #ffeeba;
+    color: #856404;
+}
+
+/* Notice Styles */
+.aipdg-notice {
+    padding: 12px;
+    border-radius: 4px;
+    margin-bottom: 12px;
+}
+
+.aipdg-notice-warning {
+    background: #fff3cd;
+    border: 1px solid #ffc107;
+}
+
+/* Upgrade Box */
+.aipdg-upgrade-box {
+    margin-top: 15px;
+    padding: 12px;
+    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+    border: 1px solid #dee2e6;
+    border-radius: 6px;
+}
+
+.aipdg-upgrade-header {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    margin-bottom: 10px;
+}
+
+.aipdg-upgrade-header .dashicons {
+    color: #ffc107;
+}
+
+.aipdg-upgrade-box .aipdg-warning {
+    color: #dc3545;
+    font-size: 12px;
+    margin: 0 0 10px;
+}
+
+.aipdg-feature-list {
+    margin: 0 0 12px;
+    padding: 0;
+    list-style: none;
+}
+
+.aipdg-feature-list li {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    font-size: 12px;
+    margin-bottom: 4px;
+    color: #495057;
+}
+
+.aipdg-feature-list .dashicons {
+    color: #28a745;
+    font-size: 14px;
+    width: 14px;
+    height: 14px;
+}
+
+.aipdg-upgrade-box .aipdg-upgrade-btn {
+    width: 100%;
+    text-align: center;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border: none;
+    color: #fff;
+}
+
+.aipdg-upgrade-box .aipdg-upgrade-btn:hover {
+    background: linear-gradient(135deg, #5a6fd6 0%, #6a4190 100%);
+    color: #fff;
+}
+
+/* Pro Banner on Settings Page */
+.aipdg-pro-banner {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border-radius: 8px;
+    padding: 30px;
+    margin: 30px 0;
+    color: #fff;
+}
+
+.aipdg-pro-banner h2 {
+    color: #fff;
+    margin: 0 0 20px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.aipdg-pro-banner h2 .dashicons {
+    color: #ffc107;
+}
+
+.aipdg-pro-features-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 12px;
+    margin-bottom: 25px;
+}
+
+.aipdg-pro-feature {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 14px;
+}
+
+.aipdg-pro-feature .dashicons {
+    color: #90EE90;
+}
+
+.aipdg-pro-cta {
+    text-align: center;
+}
+
+.aipdg-pro-cta .button-hero {
+    background: #fff;
+    color: #667eea;
+    border: none;
+    font-weight: 600;
+    padding: 12px 30px;
+    height: auto;
+}
+
+.aipdg-pro-cta .button-hero:hover {
+    background: #f8f9fa;
+    color: #5a6fd6;
+}
+
+.aipdg-guarantee {
+    margin-top: 12px;
+    font-size: 13px;
+    opacity: 0.9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+}
+
+/* Settings Table */
+.aipdg-settings-table th {
+    width: 200px;
+}
+
+/* Loading Animation */
+@keyframes aipdg-spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+.aipdg-loading .dashicons {
+    animation: aipdg-spin 1s linear infinite;
+}
+
+/* Responsive */
+@media screen and (max-width: 782px) {
+    .aipdg-pro-features-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .aipdg-settings-table th {
+        width: auto;
+    }
+}

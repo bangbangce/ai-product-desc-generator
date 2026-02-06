@@ -1,0 +1,5 @@
+/node_modules
+/vendor
+*.log
+.DS_Store
+/freemius/secret_key.txt  <-- 如果你有把私钥存在文件里

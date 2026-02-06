@@ -1,0 +1,323 @@
+# AI Product Description Generator POT File
+# Copyright (C) 2024
+# This file is distributed under the GPLv2.
+msgid ""
+msgstr ""
+"Project-Id-Version: AI Product Description Generator 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-01 00:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: includes/class-aipdg-admin.php
+msgid "AI Product Description Generator"
+msgstr ""
+
+#: includes/class-aipdg-admin.php
+msgid "AI Description Generator"
+msgstr ""
+
+#: includes/class-aipdg-admin.php
+msgid "AI Descriptions"
+msgstr ""
+
+#: ai-product-desc-generator.php
+msgid "Generating..."
+msgstr ""
+
+#: ai-product-desc-generator.php
+msgid "Generate Description"
+msgstr ""
+
+#: ai-product-desc-generator.php
+msgid "An error occurred. Please try again."
+msgstr ""
+
+#: ai-product-desc-generator.php
+msgid "Description generated successfully!"
+msgstr ""
+
+#: ai-product-desc-generator.php
+msgid "Monthly limit reached. Please upgrade to Pro."
+msgstr ""
+
+#: ai-product-desc-generator.php
+msgid "Please configure your API key in settings."
+msgstr ""
+
+#: includes/class-aipdg-admin.php
+msgid "Free Plan Usage:"
+msgstr ""
+
+#: includes/class-aipdg-admin.php
+msgid "%1$d / %2$d generations this month"
+msgstr ""
+
+#: includes/class-aipdg-admin.php
+msgid "AI Provider"
+msgstr ""
+
+#: includes/class-aipdg-admin.php
+msgid "Select your AI service provider."
+msgstr ""
+
+#: includes/class-aipdg-admin.php
+msgid "API Key"
+msgstr ""
+
+#: includes/class-aipdg-admin.php
+msgid "Show"
+msgstr ""
+
+#: includes/class-aipdg-admin.php
+msgid "Hide"
+msgstr ""
+
+#: includes/class-aipdg-admin.php
+msgid "Test Connection"
+msgstr ""
+
+#: includes/class-aipdg-admin.php
+msgid "Get your API key from %s"
+msgstr ""
+
+#: includes/class-aipdg-admin.php
+msgid "AI Model"
+msgstr ""
+
+#: includes/class-aipdg-admin.php
+msgid "Output Language"
+msgstr ""
+
+#: includes/class-aipdg-admin.php
+msgid "Pro: 9+ languages"
+msgstr ""
+
+#: includes/class-aipdg-admin.php
+msgid "Writing Style"
+msgstr ""
+
+#: includes/class-aipdg-admin.php
+msgid "Pro: 8+ styles"
+msgstr ""
+
+#: includes/class-aipdg-admin.php
+msgid "Description Length"
+msgstr ""
+
+#: includes/class-aipdg-admin.php
+msgid "SEO Optimization"
+msgstr ""
+
+#: includes/class-aipdg-admin.php
+msgid "Include SEO-friendly keywords in descriptions"
+msgstr ""
+
+#: includes/class-aipdg-admin.php
+msgid "Please enter API key"
+msgstr ""
+
+#: includes/class-aipdg-admin.php
+msgid "Testing..."
+msgstr ""
+
+#: includes/class-aipdg-admin.php
+msgid "Connection successful!"
+msgstr ""
+
+#: includes/class-aipdg-admin.php
+msgid "Connection failed"
+msgstr ""
+
+#: includes/class-aipdg-admin.php
+msgid "Permission denied."
+msgstr ""
+
+#: includes/class-aipdg-woocommerce.php
+msgid "Additional Keywords:"
+msgstr ""
+
+#: includes/class-aipdg-woocommerce.php
+msgid "e.g., eco-friendly, handmade"
+msgstr ""
+
+#: includes/class-aipdg-woocommerce.php
+msgid "Optional: Add keywords to include in the description"
+msgstr ""
+
+#: includes/class-aipdg-woocommerce.php
+msgid "Short description"
+msgstr ""
+
+#: includes/class-aipdg-woocommerce.php
+msgid "Full description"
+msgstr ""
+
+#: includes/class-aipdg-woocommerce.php
+msgid "Usage: %1$d / %2$d this month"
+msgstr ""
+
+#: includes/class-aipdg-woocommerce.php
+msgid "Please configure your API key first."
+msgstr ""
+
+#: includes/class-aipdg-woocommerce.php
+msgid "Go to Settings"
+msgstr ""
+
+#: includes/class-aipdg-upgrade.php
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: includes/class-aipdg-upgrade.php
+msgid "Only %d generations left this month!"
+msgstr ""
+
+#: includes/class-aipdg-upgrade.php
+msgid "Get Pro - $7.99/month"
+msgstr ""
+
+#: includes/class-aipdg-upgrade.php
+msgid "Unlock All Features with Pro"
+msgstr ""
+
+#: includes/class-aipdg-upgrade.php
+msgid "Upgrade to Pro - $95.88/year"
+msgstr ""
+
+#: includes/class-aipdg-upgrade.php
+msgid "30-day money-back guarantee"
+msgstr ""
+
+#: includes/class-aipdg-upgrade.php
+msgid "You have reached your monthly generation limit."
+msgstr ""
+
+#: includes/class-aipdg-upgrade.php
+msgid "You have only %d generations remaining this month."
+msgstr ""
+
+#: includes/class-aipdg-upgrade.php
+msgid "Upgrade to Pro for unlimited generations"
+msgstr ""
+
+#: includes/class-aipdg-hooks.php
+msgid "Unlimited generations"
+msgstr ""
+
+#: includes/class-aipdg-hooks.php
+msgid "Batch generate for all products"
+msgstr ""
+
+#: includes/class-aipdg-hooks.php
+msgid "Custom prompt templates"
+msgstr ""
+
+#: includes/class-aipdg-hooks.php
+msgid "Generation history"
+msgstr ""
+
+#: includes/class-aipdg-hooks.php
+msgid "9+ languages supported"
+msgstr ""
+
+#: includes/class-aipdg-hooks.php
+msgid "8+ writing styles"
+msgstr ""
+
+#: includes/class-aipdg-hooks.php
+msgid "Claude, Gemini and more AI models"
+msgstr ""
+
+#: includes/class-aipdg-hooks.php
+msgid "SEO analysis & scoring"
+msgstr ""
+
+#: includes/class-aipdg-ajax.php
+msgid "Security check failed. Please refresh the page and try again."
+msgstr ""
+
+#: includes/class-aipdg-ajax.php
+msgid "You do not have permission to perform this action."
+msgstr ""
+
+#: includes/class-aipdg-ajax.php
+msgid "Invalid product ID."
+msgstr ""
+
+#: includes/class-aipdg-ajax.php
+msgid "Product not found."
+msgstr ""
+
+#: includes/class-aipdg-ajax.php
+msgid "Security check failed."
+msgstr ""
+
+#: includes/class-aipdg-ajax.php
+msgid "Description saved successfully."
+msgstr ""
+
+#: includes/class-aipdg-ajax.php
+msgid "Failed to save description."
+msgstr ""
+
+#: includes/class-aipdg-api.php
+msgid "API key not configured. Please add your API key in settings."
+msgstr ""
+
+#: includes/class-aipdg-api.php
+msgid "Monthly usage limit reached. Upgrade to Pro for unlimited generations."
+msgstr ""
+
+#: includes/class-aipdg-api.php
+msgid "Include SEO-friendly keywords naturally"
+msgstr ""
+
+#: includes/class-aipdg-api.php
+msgid "Focus on readability over SEO"
+msgstr ""
+
+#: includes/class-aipdg-api.php
+msgid "Invalid API provider."
+msgstr ""
+
+#: ai-product-desc-generator.php
+msgid "WooCommerce is required for full functionality. Some features may be limited."
+msgstr ""
+
+#: ai-product-desc-generator.php
+msgid "Usage: %1$d / %2$d this month"
+msgstr ""
+
+#: ai-product-desc-generator.php
+msgid "Only %d generations left this month!"
+msgstr ""
+
+#: includes/class-aipdg-core.php
+msgid "Professional"
+msgstr ""
+
+#: includes/class-aipdg-core.php
+msgid "Casual & Friendly"
+msgstr ""
+
+#: includes/class-aipdg-core.php
+msgid "Short (150 chars)"
+msgstr ""
+
+#: includes/class-aipdg-core.php
+msgid "Medium (300 chars)"
+msgstr ""
+
+#: includes/class-aipdg-core.php
+msgid "Long (500 chars)"
+msgstr ""
+
+#: includes/class-aipdg-admin.php
+msgid "Get your API key from"
+msgstr ""
+
+#: includes/class-aipdg-core.php
+msgid "Settings"
+msgstr ""

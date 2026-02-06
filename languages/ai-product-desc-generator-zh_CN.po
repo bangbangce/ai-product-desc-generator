@@ -1,0 +1,327 @@
+# AI Product Description Generator 简体中文翻译
+# Copyright (C) 2024
+# This file is distributed under the GPLv2.
+msgid ""
+msgstr ""
+"Project-Id-Version: AI Product Description Generator 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-01 00:00+0000\n"
+"PO-Revision-Date: 2026-01-28 07:21+0000\n"
+"Last-Translator: \n"
+"Language-Team: 简体中文\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: includes/class-aipdg-admin.php
+msgid "%1$d / %2$d generations this month"
+msgstr "本月已使用 %1$d / %2$d 次"
+
+#: includes/class-aipdg-upgrade.php
+msgid "30-day money-back guarantee"
+msgstr "30天无理由退款保证"
+
+#: includes/class-aipdg-hooks.php
+msgid "8+ writing styles"
+msgstr "8+ 种写作风格"
+
+#: includes/class-aipdg-hooks.php
+msgid "9+ languages supported"
+msgstr "支持 9+ 种语言"
+
+#: includes/class-aipdg-woocommerce.php
+msgid "Additional Keywords:"
+msgstr "附加关键词："
+
+#: includes/class-aipdg-admin.php
+msgid "AI Description Generator"
+msgstr "AI 描述生成器"
+
+#: includes/class-aipdg-admin.php
+msgid "AI Descriptions"
+msgstr "AI 描述"
+
+#: includes/class-aipdg-admin.php
+msgid "AI Model"
+msgstr "AI 模型"
+
+# 主插件文件
+#: includes/class-aipdg-admin.php
+msgid "AI Product Description Generator"
+msgstr "AI 商品描述生成器"
+
+#: includes/class-aipdg-admin.php
+msgid "AI Provider"
+msgstr "AI 服务商"
+
+#: ai-product-desc-generator.php
+msgid "An error occurred. Please try again."
+msgstr "发生错误，请重试。"
+
+#: includes/class-aipdg-admin.php
+msgid "API Key"
+msgstr "API 密钥"
+
+# API 相关
+#: includes/class-aipdg-api.php
+msgid "API key not configured. Please add your API key in settings."
+msgstr "未配置 API 密钥，请在设置中添加您的 API 密钥。"
+
+#: includes/class-aipdg-hooks.php
+msgid "Batch generate for all products"
+msgstr "批量生成所有产品描述"
+
+#: includes/class-aipdg-core.php
+msgid "Casual & Friendly"
+msgstr "休闲友好"
+
+#: includes/class-aipdg-hooks.php
+msgid "Claude, Gemini and more AI models"
+msgstr "Claude、Gemini 等更多 AI 模型"
+
+#: includes/class-aipdg-admin.php
+msgid "Connection failed"
+msgstr "连接失败"
+
+#: includes/class-aipdg-admin.php
+msgid "Connection successful!"
+msgstr "连接成功！"
+
+#: includes/class-aipdg-hooks.php
+msgid "Custom prompt templates"
+msgstr "自定义提示词模板"
+
+#: ai-product-desc-generator.php
+msgid "Description generated successfully!"
+msgstr "描述生成成功！"
+
+#: includes/class-aipdg-admin.php
+msgid "Description Length"
+msgstr "描述长度"
+
+#: includes/class-aipdg-ajax.php
+msgid "Description saved successfully."
+msgstr "描述保存成功。"
+
+#: includes/class-aipdg-woocommerce.php
+msgid "e.g., eco-friendly, handmade"
+msgstr "例如：高颜值、耐用、轻便"
+
+#: includes/class-aipdg-ajax.php
+msgid "Failed to save description."
+msgstr "保存描述失败。"
+
+#: includes/class-aipdg-api.php
+msgid "Focus on readability over SEO"
+msgstr "注重可读性而非 SEO"
+
+# 设置页面
+#: includes/class-aipdg-admin.php
+msgid "Free Plan Usage:"
+msgstr "免费版使用量："
+
+#: includes/class-aipdg-woocommerce.php
+msgid "Full description"
+msgstr "完整描述"
+
+#: ai-product-desc-generator.php
+msgid "Generate Description"
+msgstr "生成描述"
+
+#: ai-product-desc-generator.php
+msgid "Generating..."
+msgstr "生成中..."
+
+#: includes/class-aipdg-hooks.php
+msgid "Generation history"
+msgstr "生成历史记录"
+
+#: includes/class-aipdg-upgrade.php
+msgid "Get Pro - $7.99/month"
+msgstr "获取 Pro - $7.99/月"
+
+#: includes/class-aipdg-admin.php
+msgid "Get your API key from"
+msgstr "从以下网站获取您的 API 密钥："
+
+#: includes/class-aipdg-admin.php
+msgid "Get your API key from %s"
+msgstr "从 %s 获取您的 API 密钥"
+
+#: includes/class-aipdg-woocommerce.php
+msgid "Go to Settings"
+msgstr "前往设置"
+
+#: includes/class-aipdg-admin.php
+msgid "Hide"
+msgstr "隐藏"
+
+#: includes/class-aipdg-admin.php
+msgid "Include SEO-friendly keywords in descriptions"
+msgstr "在描述中包含 SEO 友好的关键词"
+
+#: includes/class-aipdg-api.php
+msgid "Include SEO-friendly keywords naturally"
+msgstr "自然地包含 SEO 友好的关键词"
+
+#: includes/class-aipdg-api.php
+msgid "Invalid API provider."
+msgstr "无效的 AI 服务商。"
+
+#: includes/class-aipdg-ajax.php
+msgid "Invalid product ID."
+msgstr "无效的产品 ID。"
+
+#: includes/class-aipdg-core.php
+msgid "Long (500 chars)"
+msgstr "较长 (500字符)"
+
+#: includes/class-aipdg-core.php
+msgid "Medium (300 chars)"
+msgstr "中等 (300字符)"
+
+#: ai-product-desc-generator.php
+msgid "Monthly limit reached. Please upgrade to Pro."
+msgstr "已达到月度限额，请升级到 Pro 版。"
+
+#: includes/class-aipdg-api.php
+msgid "Monthly usage limit reached. Upgrade to Pro for unlimited generations."
+msgstr "已达到月度使用限额，升级到 Pro 版可无限使用。"
+
+#: ai-product-desc-generator.php
+msgid "Only %d generations left this month!"
+msgstr "本月仅剩 %d 次生成机会！"
+
+#: includes/class-aipdg-woocommerce.php
+msgid "Optional: Add keywords to include in the description"
+msgstr "可选：添加要包含在描述中的关键词"
+
+#: includes/class-aipdg-admin.php
+msgid "Output Language"
+msgstr "输出语言"
+
+#: includes/class-aipdg-admin.php
+msgid "Permission denied."
+msgstr "权限不足。"
+
+#: includes/class-aipdg-woocommerce.php
+msgid "Please configure your API key first."
+msgstr "请先配置您的 API 密钥。"
+
+#: ai-product-desc-generator.php
+msgid "Please configure your API key in settings."
+msgstr "请在设置中配置您的 API 密钥。"
+
+#: includes/class-aipdg-admin.php
+msgid "Please enter API key"
+msgstr "请输入 API 密钥"
+
+#: includes/class-aipdg-admin.php
+msgid "Pro: 8+ styles"
+msgstr "Pro：支持 8+ 种风格"
+
+#: includes/class-aipdg-admin.php
+msgid "Pro: 9+ languages"
+msgstr "Pro：支持 9+ 种语言"
+
+#: includes/class-aipdg-ajax.php
+msgid "Product not found."
+msgstr "未找到产品。"
+
+#: includes/class-aipdg-core.php
+msgid "Professional"
+msgstr "专业"
+
+#: includes/class-aipdg-ajax.php
+msgid "Security check failed."
+msgstr "安全检查失败。"
+
+# AJAX 相关
+#: includes/class-aipdg-ajax.php
+msgid "Security check failed. Please refresh the page and try again."
+msgstr "安全检查失败，请刷新页面后重试。"
+
+#: includes/class-aipdg-admin.php
+msgid "Select your AI service provider."
+msgstr "选择您的 AI 服务提供商。"
+
+#: includes/class-aipdg-hooks.php
+msgid "SEO analysis & scoring"
+msgstr "SEO 分析与评分"
+
+#: includes/class-aipdg-admin.php
+msgid "SEO Optimization"
+msgstr "SEO 优化"
+
+#: includes/class-aipdg-core.php
+msgid "Settings"
+msgstr "设置"
+
+#: includes/class-aipdg-core.php
+msgid "Short (150 chars)"
+msgstr "简短 (150字符)"
+
+#: includes/class-aipdg-woocommerce.php
+msgid "Short description"
+msgstr "简短描述"
+
+#: includes/class-aipdg-admin.php
+msgid "Show"
+msgstr "显示"
+
+#: includes/class-aipdg-admin.php
+msgid "Test Connection"
+msgstr "测试连接"
+
+#: includes/class-aipdg-admin.php
+msgid "Testing..."
+msgstr "测试中..."
+
+#: includes/class-aipdg-hooks.php
+msgid "Unlimited generations"
+msgstr "无限次生成"
+
+# 升级提示
+#: includes/class-aipdg-upgrade.php
+msgid "Unlock All Features with Pro"
+msgstr "升级 Pro 解锁全部功能"
+
+#: includes/class-aipdg-upgrade.php
+msgid "Upgrade to Pro"
+msgstr "升级到 Pro"
+
+#: includes/class-aipdg-upgrade.php
+msgid "Upgrade to Pro - $95.88/year"
+msgstr "升级到 Pro - $95.88/年"
+
+#: includes/class-aipdg-upgrade.php
+msgid "Upgrade to Pro for unlimited generations"
+msgstr "升级到 Pro 版可无限使用"
+
+#: ai-product-desc-generator.php
+msgid "Usage: %1$d / %2$d this month"
+msgstr "使用量：本月 %1$d / %2$d"
+
+#: ai-product-desc-generator.php
+msgid ""
+"WooCommerce is required for full functionality. Some features may be limited."
+msgstr "需要 WooCommerce 才能使用完整功能。部分功能可能受限。"
+
+#: includes/class-aipdg-admin.php
+msgid "Writing Style"
+msgstr "写作风格"
+
+#: includes/class-aipdg-ajax.php
+msgid "You do not have permission to perform this action."
+msgstr "您没有执行此操作的权限。"
+
+#: includes/class-aipdg-upgrade.php
+msgid "You have only %d generations remaining this month."
+msgstr "本月仅剩 %d 次生成机会。"
+
+#: includes/class-aipdg-upgrade.php
+msgid "You have reached your monthly generation limit."
+msgstr "您已达到本月生成限额。"
